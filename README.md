@@ -1,2 +1,2 @@
 # chromeExtension
-Simple chrome extension for noting leads via url or typed in
+Simple chrome extension for noting leads via url or user typed in
